@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aymen Fatih's Website</title>
+</head>
+<body>
+    <header>
+        <h1>About Me</h1>
+    </header>
+
+    <section>
+        <h2>Areas of Interest</h2>
+        <ul>
+            <li>Sports</li>
+            <li>Digital Marketing</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Strengths</h2>
+        <ul>
+            <li>Mature</li>
+            <li>Calm</li>
+            <li>Patient</li>
+            <li>Disciplined</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Weaknesses</h2>
+        <ul>
+            <li>Lack of technical skills</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Hi! I'm a student at EMLV business school. I love Kickboxing, which has taught me discipline and dedication. Even when I'm tired and lack motivation, I do my homework diligently.
+        </p>
+        <p>
+            I was immediately drawn to your company because of your remarkable commitment to innovation and creativity. I am really excited about the opportunity to bring these qualities to your team.
+        </p>
+    </section>
+</body>
+</html>
